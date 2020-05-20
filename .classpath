@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Josh/Desktop/Server Plugins/Server/HCF Testing/custom.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josh/Desktop/Server Plugins/Server/HCF Testing/plugins/PermissionsEx-1.23.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josh/Desktop/Server Plugins/Server/HCF Testing/plugins/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josh/Desktop/Server Plugins/Server/HCF Testing/plugins/worldedit-bukkit-6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josh/Desktop/Server Plugins/Server/HCF Testing/plugins/worldguard-6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josh/Desktop/Server Plugins/Server/HCF Testing/plugins/paperspigot-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josh/Desktop/SurgeHCF - Updated Workspace/Output/SurgeHCF - Essentials.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josh/Downloads/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josh/Desktop/Desktop/libs/mongo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josh/Desktop/Desktop/libs/mongo-java-driver-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josh/Desktop/Desktop/libs/rt.jar"/>
+	<classpathentry kind="lib" path="D:/plugins/my.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

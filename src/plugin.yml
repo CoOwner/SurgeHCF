@@ -1,0 +1,95 @@
+name: SurgeHCF
+version: 1.0
+author: subbotted
+main: com.surgehcf.SurgeCore
+description: HCF core made exclusively for the SurgeHCF Network.
+commands:
+  ores:
+  rules:
+  spawner:
+  sotw:
+  surge:
+  forehead:
+    aliases: [massiveforehead, smalldick, micropenis, ramos, ryan, cuntnigger]
+  refund:
+  coords:
+  claim:
+  group:
+  rank:
+  staffchat:
+  vanish:
+  gmc:
+  gms:
+  gma:
+  report:
+  craft:
+  near:
+  nv:
+  giveaway:
+  blacklist:
+  unblacklist:
+  judgementday:
+    aliases: [jd, judge]
+  gamemode:
+  motd:
+  pin:
+    aliases: [login, pw]
+  changepin:
+    aliases: [changepw, register]  
+  fly:
+  cobble:
+  ts:
+  vanish:
+    description: Vanish
+    aliases: [v]
+  sc:
+    description: Staff Chat
+    aliases: [staffchat]
+  mod:
+    description: Moderator Mode
+    aliases: [h]
+  koth:
+  crowbar:
+    description: Management of crowbar tools.
+  conquest:
+    description: Command used to handle Conquest events.
+  economy:
+    aliases: [bal, money, eco, econ]
+    description: Command used to modify the economy.
+  eotw:
+    aliases: [endoftheworld]
+    description: Sets if the server is in End of the World mode.
+  game:
+    description: Command used to manage minigame events.
+  faction:
+    aliases: [f, fac, team, t]
+    description: Faction related commands.
+  help:
+    aliases: ["?"]
+    description: Find out more about this server.
+  stats:
+    description: Checks the staticstics on a player.
+  bard:
+    description: Bard Management.
+  lives:
+    description: Management of lives or deathbans.
+  location:
+    aliases: [loc]
+    description: Check the faction location of a player.
+  logout:
+    aliases: [disconnect]
+    description: Command to safely logout without an NPC spawning.
+  eventloot:
+    description: Obtain keys to unlock awesome loot.
+  mapkit:
+    description: Used to check the current map restrictions.
+  pay:
+    description: Allow players to pay money.
+  pvptimer:
+    aliases: [pvp]
+    description: Command to enable or disable pvp timer protection.
+  cannon:
+    aliases: [cannon, playercannon]
+    description: Shoots you into the warzone.
+  spawn:
+    description: Teleport to the server spawn.

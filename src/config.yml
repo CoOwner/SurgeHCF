@@ -1,0 +1,121 @@
+death-signs: true
+found-diamonds: true
+deathban-time: 60000
+#####################################
+lists:
+  claimed_rewards:
+  - aadadwd123_211313_EXAMPLE_UUID
+judgement_day_bans:
+- Custom
+- jumpout
+- Sulium
+- itsjhalt
+- Koolotta
+- EnjoyTheBan
+- Daddy
+- Hoodrat
+- MrMitch361
+- LeafyIsSleepy
+- CamV1
+- HyKurtis
+- Axre
+- PluginLeaks
+- Godz_OneManArmy
+- Gullible
+- puttydotexe
+- SystemUpdate
+- SysUpdate
+- Ghose
+- Jar
+- Vertify
+- Glove
+- GH7ST
+- Kobi
+- Trons
+- Adios
+- Trons
+- Hoodrat
+- Vlaeon
+- Daddy
+- Castro
+- Glove
+- Toby
+- yeko
+- Kobi
+- AXC
+- Woahs
+- sVs
+- Vix
+security:
+  passcodes:
+    example: 'Example Password'
+  ipaddresses:
+    example: 127.0.0.1
+blacklisted_player_uuids:
+- abebabcsdb1313414example
+
+#####################################
+'1': '&eLocation:'
+'2': '&r%player_location%'
+'3': ''
+'4': '&ePlayer Info:'
+'5': ' &eKills: &r%player_kills%'
+'6': ' &eDeaths: &r%player_deaths%'
+'7': ''
+'8': '&eOnline Players:'
+'9': '&r%online_players%'
+'10': ''
+'11': '&eOres Stats:'
+'12': ''
+'13': ' &bDiamond: &r%diamond%'
+'14': ' &aEmerald: &r%emerald%'
+'15': ' &7Iron: &r%iron%'
+'16': ' &6Gold: &r%gold%'
+'17': ' &cRedstone: &r%redstone%'
+'18': ' &8Coal: &r%coal%'
+'19': ' &9Lapis: &r%lapis%'
+'20': '&7&m---------------'
+'21': '&6&lSurgeHCF'
+'22': ''
+'23': ''
+'24': ''
+'25': '&ewww.surgehcf.com'
+'26': '&eplay.surgehcf.com'
+'27': '&estore.surgehcf.com'
+'28': ''
+'29': ''
+'30': ''
+'31': '&eUseful Commands:'
+'32': ''
+'33': '&r/coords'
+'34': '&r/report'
+'35': '&r/help'
+'36': ''
+'37': ''
+'38': ''
+'39': ''
+'40': '&7&m---------------'
+'41': '&eEnd Portal:'
+'42': '&r1000, 1000'
+'43': ''
+'44': '&eMap Kit:'
+'45': '&rS1, P1'
+'46': ''
+'47': '&eSotw was:'
+'48': '&r11/01/2017'
+'49': ''
+'50': ''
+'51': '&e%ftag%:'
+'52': ''
+'53': ' &eLeader: &r%fleader%'
+'54': ' &eHome: %fhome%'
+'55': ' &eF Bal: &a%fbal%'
+'56': ' &eDTR: &r%fdtr%'
+'57': ''
+'58': ''
+'59': ''
+'60': '&7&m---------------'
+#############################
+knockback:
+  vertical: 1.07
+  horizontal: 1.03
